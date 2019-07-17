@@ -1,0 +1,40 @@
+body
+   {
+	background : black;
+   }
+
+h1
+   {
+	text-align : center;
+	color : white;
+	background-color : pink;
+	font-style : bold;
+	font-family : Monotype Corsiva
+   }
+a 
+   {
+	color: yellow;
+	font-weight: bold;
+	text-decoration: wavy-underline;
+	text-transform: uppercase;
+	font-family: Monotype Corsiva;
+   }
+
+nav
+   {
+	color = yellow
+   }
+
+a: visited
+   {
+	color: yellow;
+   } 
+
+a:hover
+   {
+	color : purple;
+   }
+footer
+{
+	text-align : center;
+}
